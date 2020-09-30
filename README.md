@@ -1,2 +1,2 @@
 # vertix.io-aimbot
-ambit and more
+aimbot and more
